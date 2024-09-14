@@ -1,0 +1,28 @@
+{
+  "name": "reactbatch68",
+  "version": "1.0.0",
+  "description": "this is react by bhanu prakash",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buduru/reactbatch68.git"
+  },
+  "keywords": [
+    "javascript",
+    "reactjs",
+    "webapp",
+    "bhanu"
+  ],
+  "author": "bhanuprakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buduru/reactbatch68/issues"
+  },
+  "homepage": "https://github.com/buduru/reactbatch68#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
